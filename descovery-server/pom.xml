@@ -14,10 +14,6 @@
         <version>2.6.4</version>
     </parent>
 
-    <modules>
-        <module>../categories-service</module>
-    </modules>
-
     <properties>
         <java.version>11</java.version>
         <spring-cloud.version>2021.0.1</spring-cloud.version>
