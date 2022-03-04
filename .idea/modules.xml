@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot-Microservices.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot-Microservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/categories-service/categories-service.iml" filepath="$PROJECT_DIR$/categories-service/categories-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/descovery-server/descovery-server.iml" filepath="$PROJECT_DIR$/descovery-server/descovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persona-service/persona-service.iml" filepath="$PROJECT_DIR$/persona-service/persona-service.iml" />
     </modules>
   </component>
 </project>
