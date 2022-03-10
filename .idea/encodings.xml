@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/descovery-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/persona-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/persona-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/producto-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/producto-service/src/main/resources" charset="UTF-8" />
   </component>
