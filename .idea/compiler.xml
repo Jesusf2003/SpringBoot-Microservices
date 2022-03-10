@@ -16,6 +16,7 @@
       <module name="categories-service" target="11" />
       <module name="descovery-server" target="11" />
       <module name="persona-service" target="11" />
+      <module name="producto-service" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -23,6 +24,7 @@
       <module name="categories-service" options="-parameters" />
       <module name="descovery-server" options="-parameters" />
       <module name="persona-service" options="-parameters" />
+      <module name="producto-service" options="-parameters" />
     </option>
   </component>
 </project>

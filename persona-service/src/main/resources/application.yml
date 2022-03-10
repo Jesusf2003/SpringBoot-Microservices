@@ -1,13 +1,13 @@
+server:
+  port: 9002
+
 spring:
   application:
-    name: categories-service
+    name: persona-service
 
 eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
-  instance:
-    preferIpAddress: true
-
-server:
-  port: 9001
+    instance:
+      preferIpAddress: true
