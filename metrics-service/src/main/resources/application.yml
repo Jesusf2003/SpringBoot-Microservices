@@ -1,0 +1,22 @@
+server:
+  port: 9004
+
+spring:
+  application:
+    name: metrics-service
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+          reader
+
+logging:
+  level:
+    org:
+      springframework:
+        web:
+          filter:
+            CommonsRequestLoggingFilter:
+              DEBUG

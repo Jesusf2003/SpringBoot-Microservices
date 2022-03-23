@@ -10,11 +10,13 @@
         <module name="descovery-server" />
         <module name="product-service" />
         <module name="categories-service" />
+        <module name="metrics-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="categories-service" target="11" />
       <module name="descovery-server" target="11" />
+      <module name="metrics-service" target="11" />
       <module name="persona-service" target="11" />
       <module name="product-service" target="11" />
       <module name="producto-service" target="11" />
@@ -24,6 +26,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="categories-service" options="-parameters" />
       <module name="descovery-server" options="-parameters" />
+      <module name="metrics-service" options="-parameters" />
       <module name="persona-service" options="-parameters" />
       <module name="product-service" options="-parameters" />
       <module name="producto-service" options="-parameters" />
