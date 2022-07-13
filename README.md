@@ -1,9 +1,13 @@
-# SpringBoot - Netflix
+# Talleres de Microservicios
 
-## TecnologÃ­as y herramientas utilizadas
+## __Challenge de los talleres 1 y 2__
 
-- Intellij Idea IDE 2021.3
-- Apache Maven 3.8.9
-- Spring Boot / Cloud Framework 2.6.1
-- Netflix OSS / Eureka Server
-- Java 11
+__Challenge 1__
+<p>
+Continuar con la implementación de los demás endpoints que sean necesarios para satisfacer el flujo de negocio del caso presentado anteriormente, esta implementación se debe de hacer en los microservicios (ms-order, ms-payment), proponiendo mejoras en su implementación (manejo de excepciones).
+</p>
+<p>
+Se recomienda seguir algunos estándares para definir tanto los nombre de las clases, interfaces, endpoints, etc que ayuden a saber cual es la responsabilidad que cumple dicho microservicio.
+</p>
+
+![](images/Challenge1.png)
