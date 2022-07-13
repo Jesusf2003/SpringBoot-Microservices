@@ -1,8 +1,8 @@
 # Talleres de Microservicios
 
-## __Challenge de los talleres 1 y 2__
+__[Challenge 1](https://github.com/Jesusf2003/SpringBoot-Microservices/tree/challenge1)__
+---
 
-__Challenge 1__
 <p>
 Continuar con la implementación de los demás endpoints que sean necesarios para satisfacer el flujo de negocio del caso presentado anteriormente, esta implementación se debe de hacer en los microservicios (ms-order, ms-payment), proponiendo mejoras en su implementación (manejo de excepciones).
 </p>
@@ -11,3 +11,15 @@ Se recomienda seguir algunos estándares para definir tanto los nombre de las cla
 </p>
 
 ![](images/Challenge1.png)
+
+__[Challenge 2](https://github.com/Jesusf2003/SpringBoot-Microservices/tree/challenge2)__
+---
+
+<p>
+1) Utilizar las herramientas del DDD que creas necesarias para realizar un modelamiento básico.
+</p>
+<p>
+2) Implementar uno de los servicios en spring boot bajo el enfoque de la arquitectura hexagonal.
+</p>
+
+![](images/Challenge2.png)
